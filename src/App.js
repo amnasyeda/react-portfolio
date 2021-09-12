@@ -1,5 +1,11 @@
-import logo from './logo.svg';
+import {BrowserRouter, Route, Switch} from "react-router-dom"
+import Home from "./pages/Home/Index"
+import About from "./pages/About/About"
+import Projects from "./pages/Projects/Projects"
 import './App.css';
+import Nav from "./pages/Nav/Nav";
+import Footer from "./pages/Footer/footer";
+import Contact from "./pages/Contact/index";
 
 function App() {
   return (
@@ -7,10 +13,10 @@ function App() {
     <Nav/>
     <Switch >
         {}
-        <Route component={Home} path='/' exact/>
-        <Route component={About} path='/about'/>
-        <Route component={Projects} path='/projects'  />
-        <Route component={Contact} path='/contact'/>
+        <Route pages={Home} path='/' exact/>
+        <Route pages={About} path='/about'/>
+        <Route pages={Projects} path='/projects'  />
+        <Route pages={Contact} path='/contact'/>
     </Switch>
     <Footer/>
     </BrowserRouter>
