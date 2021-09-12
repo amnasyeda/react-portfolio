@@ -1,8 +1,8 @@
-import React, { useState } from 'react';
+import React, { pages } from 'react';
 import Nav from '../../pages/Nav';
-import About from '../About';
-import Projects from '../Projects';
-import Contact from '../Contact';
+import About from '../../pages/About';
+import Projects from '../../pages/Project';
+import Contact from '../../Pages/Contact';
 
 function Header() {
     const [currentPage, handlePageChange] = useState('About');

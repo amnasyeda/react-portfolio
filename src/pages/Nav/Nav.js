@@ -1,7 +1,7 @@
 import React from "react";
 
 function Nav(props) {
-    const tabs = ['about', 'projects', 'contact', 'resume'];
+    const tabs = ['about', 'projects', 'contact'];
 
     return (
         <nav className="nav">
@@ -27,4 +27,4 @@ function Nav(props) {
     )
 };
 
-export default Nav
+export default Nav;
