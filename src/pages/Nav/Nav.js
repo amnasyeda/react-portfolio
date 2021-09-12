@@ -1,29 +1,30 @@
 import React from "react";
-import {NavLink} from "react-router-dom"
 
-function Nav () {
+function Nav(props) {
+    const tabs = ['about', 'projects', 'contact', 'resume'];
+
     return (
-        <header>
-            <div>
-                <nav>
-                    <NavLink to ='/'>
-                        Home
-                    </NavLink>
-                    <NavLink to='/about'>
-                        About
-                    </NavLink>
-                    <NavLink to='/projects'>
-                        Projects
-                    </NavLink>
-
-
-                </nav>
-
-
-            </div>
-
-        </header>
+        <nav className="nav">
+            <ul className="flex-row nav-list">
+                {tabs.map((tab) => (
+                    <li
+                        className="mx-1"
+                        key={tab}
+                    >
+                        <a
+                            href={'#' + tab.toLowerCase()}
+                            onClick={() => props.handlePageChange(tab)}
+                            className={
+                                props.currentPage === tab ? 'nav-link active' : 'nav-link'
+                            }
+                            >
+                            {tab}
+                        </a>
+                    </li>
+                ))}
+            </ul>
+        </nav>
     )
-}
+};
 
 export default Nav
