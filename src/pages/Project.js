@@ -4,7 +4,7 @@ function Projects () {
     return(
         <>
          <div id="mywork" className="search">
-                <button id="project"><a href="https://github.com/uot-project-grp/project01-calorie-tracker/"><img src=".png" alt="calorie-tracker" className="float-right" /></a> </button>
+                <button id="project"><a href="https://github.com/uot-project-grp/project01-calorie-tracker/"><img src="calorie-tracker.png" alt="calorie-tracker" className="float-right" /></a> </button>
                 <h2 className="headertwo">Calorie Tracker - Group Project</h2>
                 <p>
                     This was an application that allows its users to easily manage their calories consumed over a given time.
