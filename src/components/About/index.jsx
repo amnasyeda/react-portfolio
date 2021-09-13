@@ -14,7 +14,7 @@ const About = () => {
                     becoming a full stack web developer. 
           </p>
           <img
-              src="https://raw.githubusercontent.com/amnasyeda/react-portfolio/main/public/css/brain.jpeg"
+              src="https://raw.githubusercontent.com/amnasyeda/react-portfolio/old-files-before-losing-/public/css/brain.jpeg"
               alt="brain"
             />
          </div>

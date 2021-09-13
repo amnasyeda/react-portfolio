@@ -3,7 +3,7 @@ const Contact = () => {
     <div className="contact">
       <h1>Contact Me!</h1>
       <img
-              src="https://raw.githubusercontent.com/amnasyeda/react-portfolio/main/public/css/contact.png"
+              src="https://raw.githubusercontent.com/amnasyeda/react-portfolio/old-files-before-losing-/public/css/contact.png"
               alt="contact"
             />
     

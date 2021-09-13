@@ -17,7 +17,7 @@ const Home = () => {
       </div>
       <div className="me">
       <img
-              src="https://raw.githubusercontent.com/amnasyeda/react-portfolio/main/public/css/bio.png"
+              src="https://raw.githubusercontent.com/amnasyeda/react-portfolio/old-files-before-losing-/public/css/bio.png"
               alt="bio"
             />
       </div>

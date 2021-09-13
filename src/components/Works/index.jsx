@@ -7,7 +7,7 @@ const Works = () => {
 <h1>My Recent Projects</h1>
 
     <div id="mywork" className="search">
-    <button id="budgettracker"><a href="https://raw.githubusercontent.com/amnasyeda/react-portfolio/main/public/css/budget.jpeg"><img src="https://raw.githubusercontent.com/amnasyeda/react-portfolio/main/public/css/budget.jpeg" alt="picture" className="float-right" /></a> </button>
+    <button id="budgettracker"><a href="https://raw.githubusercontent.com/amnasyeda/react-portfolio/old-files-before-losing-/public/css/budget.jpeg"><img src="https://raw.githubusercontent.com/amnasyeda/react-portfolio/old-files-before-losing-/public/css/budget.jpeg" alt="picture" className="float-right" /></a> </button>
     <h2 className="headertwo"> Budget Tracker</h2>
     <p>
     An application that allows the user to track their budget either online or offline. <a href='https://budget-tracker2397.herokuapp.com/'>Click here to view deployed project</a> <a href='https://github.com/amnasyeda/budget-tracker/'>GitHub Repository</a>
@@ -15,7 +15,7 @@ const Works = () => {
 </div>
 
 <div id="mywork" className="search">
-    <button id="socialnetwork"><a href="https://raw.githubusercontent.com/amnasyeda/react-portfolio/main/public/css/social-network.jpeg"><img src="https://raw.githubusercontent.com/amnasyeda/react-portfolio/main/public/css/social-network.jpeg" alt="picture" className="float-right" /></a> </button>
+    <button id="socialnetwork"><a href="https://raw.githubusercontent.com/amnasyeda/react-portfolio/old-files-before-losing-/public/css/social-network.jpeg"><img src="https://raw.githubusercontent.com/amnasyeda/react-portfolio/old-files-before-losing-/public/css/social-network.jpeg" alt="picture" className="float-right" /></a> </button>
     <h2 className="headertwo">Social Network API</h2>
     <p>
     The backend for a social network API application which allows users to create, store, update, and remove their thoughts as well as react to the thoughts of their friends. <a href='https://github.com/amnasyeda/social-network-api/'>GitHub Repository</a>
@@ -23,7 +23,7 @@ const Works = () => {
 </div>
 
 <div id="mywork" className="search">
-    <button id="workday"><a href="https://raw.githubusercontent.com/amnasyeda/react-portfolio/main/public/css/schedule.png"><img src="https://raw.githubusercontent.com/amnasyeda/react-portfolio/main/public/css/schedule.png" alt="picture" className="float-right" /></a> </button>
+    <button id="workday"><a href="https://raw.githubusercontent.com/amnasyeda/react-portfolio/old-files-before-losing-/public/css/schedule.png"><img src="https://raw.githubusercontent.com/amnasyeda/react-portfolio/old-files-before-losing-/public/css/schedule.png" alt="picture" className="float-right" /></a> </button>
     <h2 className="headertwo"> Work Day Scheduler</h2>
     <p>
     A simple calendar application which permits users to type and save important tasks for every hour of the working day. <a href='https://github.com/amnasyeda/work-day-scheduler/'>Click here to view deployed project</a> <a href='https://github.com/amnasyeda/work-day-scheduler/'>GitHub Repository</a>
@@ -31,7 +31,7 @@ const Works = () => {
 </div>
 
 <div id="mywork" className="search">
-    <button id="codequiz"><a href="public/css/quiz.jpeg"><img src="" alt="picture" className="float-right" /></a> </button>
+    <button id="codequiz"><a href="https://raw.githubusercontent.com/amnasyeda/react-portfolio/old-files-before-losing-/public/css/quiz.jpeg"><img src="https://raw.githubusercontent.com/amnasyeda/react-portfolio/old-files-before-losing-/public/css/quiz.jpeg" alt="picture" className="float-right" /></a> </button>
     <h2 className="headertwo"> Code Quiz</h2>
     <p>
     A timed JavaScript quiz composed of five multiple choice questions. <a href='https://amnasyeda.github.io/code-quiz/'>Click here to view deployed project</a> <a href='https://github.com/amnasyeda/work-day-scheduler/'>GitHub Repository</a>
