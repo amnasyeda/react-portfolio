@@ -37,7 +37,7 @@ const NavBar = () => {
         </div>
         <div className="list-wrapper">
           <img
-            src="https://raw.githubusercontent.com/amnasyeda/react-portfolio/main/public/menu.png"
+            src="https://raw.githubusercontent.com/amnasyeda/react-portfolio/old-files-before-losing-/public/menu.png"
             alt="Navigate"
             style={{ opacity: !open ? 1 : 0 }}
             onClick={() => {
@@ -45,7 +45,7 @@ const NavBar = () => {
             }}
           />
           <img
-            src="https://raw.githubusercontent.com/amnasyeda/react-portfolio/main/public/menu.png"
+            src="https://raw.githubusercontent.com/amnasyeda/react-portfolio/old-files-before-losing-/public/menu.png"
             alt="Menu"
             style={{ opacity: open ? 1 : 0 }}
             onClick={() => {
