@@ -8,18 +8,18 @@ const Home = () => {
       <div className="title">
         <h1>
           <p>Hi,</p>
-          <p>I am Amna</p>
-          <p>I am a Software development Student</p>
+          <p>My name is Amna</p>
+          <p>I am a Software development Student.</p>
         </h1>
         <Link to="about">
           <button>About</button>
         </Link>
       </div>
       <div className="me">
-        <img
-          src={`${process.env.PUBLIC_URL}/my-logo.png`}
-          alt="picture"
-        />
+      <img
+              src="https://raw.githubusercontent.com/amnasyeda/react-portfolio/main/public/css/bio.png"
+              alt="bio"
+            />
       </div>
     </div>
   );
