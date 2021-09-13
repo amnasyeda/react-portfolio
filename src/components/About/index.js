@@ -13,6 +13,10 @@ const About = () => {
                     Over the last few months I began a coding bootcamp at the University of Toronto School of Continuing Studies and I am working towards 
                     becoming a full stack web developer. 
           </p>
+          <img
+              src="https://raw.githubusercontent.com/amnasyeda/react-portfolio/main/public/css/brain.jpeg"
+              alt="brain"
+            />
          </div>
     )
 }
