@@ -33,12 +33,7 @@ const NavBar = () => {
     <nav className="navbar">
       <div className="nav-wrapper">
         <div className="logo">
-          <Link to="/">
-            <img
-              src="https://raw.githubusercontent.com/amnasyeda/react-portfolio/main/public/logo192.png"
-              alt="logo"
-            />
-          </Link>
+         
         </div>
         <div className="list-wrapper">
           <img
