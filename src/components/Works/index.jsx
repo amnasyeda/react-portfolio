@@ -31,7 +31,7 @@ const Works = () => {
 </div>
 
 <div id="mywork" className="search">
-    <button id="codequiz"><a href="https://raw.githubusercontent.com/amnasyeda/react-portfolio/main/public/css/quiz.jpeg"><img src="https://raw.githubusercontent.com/amnasyeda/react-portfolio/main/public/css/quiz.jpeg" alt="picture" className="float-right" /></a> </button>
+    <button id="codequiz"><a href="public/css/quiz.jpeg"><img src="public/css/quiz.jpeg" alt="picture" className="float-right" /></a> </button>
     <h2 className="headertwo"> Code Quiz</h2>
     <p>
     A timed JavaScript quiz composed of five multiple choice questions. <a href='https://amnasyeda.github.io/code-quiz/'>Click here to view deployed project</a> <a href='https://github.com/amnasyeda/work-day-scheduler/'>GitHub Repository</a>
