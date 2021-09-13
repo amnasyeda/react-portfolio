@@ -1,7 +1,7 @@
 const Contact = () => {
   return (
     <div className="contact">
-      <h1>Contact me!</h1>
+      <h1>Contact Me!</h1>
       <img
               src="https://raw.githubusercontent.com/amnasyeda/react-portfolio/main/public/css/contact.png"
               alt="contact"
