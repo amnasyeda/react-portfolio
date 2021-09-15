@@ -14,7 +14,6 @@ A portfolio made with React.js.
 The user will clone the repository and run `npm install` followed by `npm start` on the `localhost:3000` port. 
 
 ## Usage 
-Please clone the repository to view the application as the deployed link is not working. I am still trying to get it up and running but I know it is likely an error in the package.json file. 
 
 <img width="1433" alt="portfolio" src="https://user-images.githubusercontent.com/81194686/133134669-9095f85b-5820-47f0-9b10-dd9a29fc3295.png">
 
@@ -25,7 +24,7 @@ https://user-images.githubusercontent.com/81194686/133139002-1e7d7494-0f7d-4015-
 
 
 ## Links
-* [Deployed Application](https://amnasyeda.github.io/react-portfolio/)
+* [Deployed Application](https://lit-beyond-80319.herokuapp.com)
 
 
 ## Credits
