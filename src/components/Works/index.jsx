@@ -54,6 +54,13 @@ const Works = () => {
     </p>
 </div>
 
+<div id="mywork" className="search">
+    <button id="vintage-vinyl"><a href="https://raw.githubusercontent.com/amnasyeda/react-portfolio/old-files-before-losing-/public/css/vintage-vinyl.png"><img src="https://raw.githubusercontent.com/amnasyeda/react-portfolio/old-files-before-losing-/public/css/vintage-vinyl.png" alt="picture" className="float-right" /></a> </button>
+    <h2 className="headertwo"> Vintage Vinyl Records - Group Project</h2>
+    <p>
+    A web application which allows the user to browse through, save, and securely purchase available vintage records. <a href="https://vintage-vinyls.herokuapp.com/">Click here to view deployed project</a> <a href="https://github.com/group01-project03/vintage-vinyl-records/">GitHub Repository</a>
+    </p>
+</div>
 </>
 )
 }
