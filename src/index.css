@@ -1,37 +1,8 @@
-* {
-    padding: 0;
-    margin: 0;
-  }
-  
-  body {
-    font-family: "Righteous", cursive;
-    -webkit-font-smoothing: antialiased;
-    -moz-osx-font-smoothing: grayscale;
-    background-color: #dde8fc;
-  }
-  
-
-  body::-webkit-scrollbar {
-    display: none;
-  }
-  
-  body {
-    -ms-overflow-style: none; 
-    scrollbar-width: none; 
-  }
-  
-  .container {
-    margin: 0 auto;
-    padding: 0 15px;
-    max-width: 1280px;
-  }
-  
-  p {
-    line-height: 30px;
-    font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New";
-  }
-  
-  h1,
-  h2 {
-    font-family: 'Times New Roman', Times, serif;
-  }
+@import url("https://fonts.googleapis.com/css2?family=Raleway:wght@500&display=swap");
+body {
+  margin: 0;
+  font-family: "Raleway", serif !important;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-image: linear-gradient(to left, rgb(27 20 41), rgb(20 15 35));
+}
